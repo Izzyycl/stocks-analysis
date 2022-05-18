@@ -41,8 +41,8 @@
 ### 7. The outputs for the 2017 and 2018 stock analyses in the VBA_Challenge.xlsm workbook match the outputs from the AllStockAnalysis in the module.
 
 #### Dataset Provided
-![2017Provided](/Resources/2017Provided.png)
-![2018Provided](/Resources/2018Provided.png)
+![This is an image](https://github.com/Izzyycl/stocks-analysis/blob/main/resources/VBA_Challenge_2017.png?raw=true)
+![This is an image](https://github.com/Izzyycl/stocks-analysis/blob/main/resources/VBA_Challenge_2018.png?raw=true)
 
 #### VBA Solution
 ![2017](/Resources/2017.png)
