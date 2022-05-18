@@ -9,7 +9,7 @@
 
 ### 1. The tickerIndex is set equal to zero before looping over the rows.
 #### Step 1a: Create a tickerIndex variable and set it equal to zero before iterating over all the rows. You will use this tickerIndex to access the correct index across the four different arrays you’ll be using: the tickers array and the three output arrays you’ll create in Step 1b.
-![1a](/Resources/1a.png)
+![1a](![image](https://user-images.githubusercontent.com/87958408/168956915-6e4362ea-3f31-42e9-9f04-3f0f973a018a.png))
 
 ### 2. Arrays are created for tickers, tickerVolumes, tickerStartingPrices, and tickerEndingPrices.
 #### Step 1b: Create three output arrays: tickerVolumes, tickerStartingPrices, and tickerEndingPrices.
