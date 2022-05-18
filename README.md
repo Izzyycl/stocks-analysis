@@ -17,22 +17,23 @@
 ##### The tickerStartingPrices and tickerEndingPrices arrays are Single data type.
 ![This is an image](https://github.com/Izzyycl/stocks-analysis/blob/main/Stock%20Analysis/1b.png?raw=true)
 
-### 3. The tickerIndex is used to access the stock ticker index for the tickers, tickerVolumes, tickerStartingPrices, and tickerEndingPrices arrays.
+### 3. Access the stock ticker index for the tickers, tickerVolumes, tickerStartingPrices, and tickerEndingPrices arrays.
 #### Step 2a: Create a for loop to initialize the tickerVolumes to zero.
-![This is an image](/Resources/2a.png)
+![This is an image](https://github.com/Izzyycl/stocks-analysis/blob/main/Stock%20Analysis/2a.png?raw=true)
 #### Step 2b: Create a for loop that will loop over all the rows in the spreadsheet.
-![This is an image](/Resources/2b.png)
+![This is an image](https://github.com/Izzyycl/stocks-analysis/blob/main/Stock%20Analysis/2b.png?raw=true)
 
 ### 4. The script loops through stock data, reading and storing all of the following values from each row: tickers, tickerVolumes, tickerStartingPrices, and tickerEndingPrices.
 #### Step 3a: Inside the for loop in Step 2b, write a script that increases the current tickerVolumes (stock ticker volume) variable and adds the ticker volume for the current stock ticker.
 ##### Use the tickerIndex variable as the index.
-![This is an image](/Resources/3a.png)
+
 #### Step 3b: Write an if-then statement to check if the current row is the first row with the selected tickerIndex. If it is, then assign the current starting price to the tickerStartingPrices variable.
-![This is an image](/Resources/3b.png)
+
 #### Step 3c: Write an if-then statement to check if the current row is the last row with the selected tickerIndex. If it is, then assign the current closing price to the tickerEndingPrices variable.
-![This is an image](/Resources/3c.png)
+
 #### Step 3d: Write a script that increases the tickerIndex if the next row’s ticker doesn’t match the previous row’s ticker.
-![This is an image](/Resources/3d.png)
+![This is an image](https://user-images.githubusercontent.com/87958408/168959787-b5d601ec-2634-4015-9256-cd2ff49903a0.png)
+
 #### Step 4: Use a for loop to loop through your arrays (tickers, tickerVolumes, tickerStartingPrices, and tickerEndingPrices) to output the “Ticker,” “Total Daily Volume,” and “Return” columns in your spreadsheet.
 ![4](/Resources/4.png)
 
