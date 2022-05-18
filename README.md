@@ -9,13 +9,13 @@
 
 ### 1. The tickerIndex is set equal to zero before looping over the rows.
 #### Step 1a: Create a tickerIndex variable and set it equal to zero before iterating over all the rows. You will use this tickerIndex to access the correct index across the four different arrays you’ll be using: the tickers array and the three output arrays you’ll create in Step 1b.
-![1a](![image](https://user-images.githubusercontent.com/87958408/168956915-6e4362ea-3f31-42e9-9f04-3f0f973a018a.png))
+![This is an image](https://github.com/Izzyycl/stocks-analysis/blob/main/Stock%20Analysis/a1.png?raw=true)
 
 ### 2. Arrays are created for tickers, tickerVolumes, tickerStartingPrices, and tickerEndingPrices.
 #### Step 1b: Create three output arrays: tickerVolumes, tickerStartingPrices, and tickerEndingPrices.
 ##### The tickerVolumes array should be a Long data type.
 ##### The tickerStartingPrices and tickerEndingPrices arrays should be a Single data type.
-![1b](/Resources/1b.png)
+![1b]([/Resources/1b.png](https://github.com/Izzyycl/stocks-analysis/blob/main/Stock%20Analysis/1b.png?raw=true))
 
 ### 3. The tickerIndex is used to access the stock ticker index for the tickers, tickerVolumes, tickerStartingPrices, and tickerEndingPrices arrays.
 #### Step 2a: Create a for loop to initialize the tickerVolumes to zero.
