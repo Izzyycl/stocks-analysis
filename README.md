@@ -24,17 +24,17 @@
 ![This is an image](https://github.com/Izzyycl/stocks-analysis/blob/main/Stock%20Analysis/2b.png?raw=true)
 
 ### 4. The script loops through stock data, reading and storing all of the following values from each row: tickers, tickerVolumes, tickerStartingPrices, and tickerEndingPrices.
-#### Step 3a: Inside the for loop in Step 2b, write a script that increases the current tickerVolumes (stock ticker volume) variable and adds the ticker volume for the current stock ticker.
-#### Step 3b: Write an if-then statement to check if the current row is the first row with the selected tickerIndex. If it is, then assign the current starting price to the tickerStartingPrices variable.
-#### Step 3c: Write an if-then statement to check if the current row is the last row with the selected tickerIndex. If it is, then assign the current closing price to the tickerEndingPrices variable.
+#### Step 3a: Find the total volume for the current ticker
+#### Step 3b: Write an if-then statement to check if the current row is the first row with the selected tickerIndex
+#### Step 3c: Write an if-then statement to check if the current row is the last row with the selected tickerIndex. 
 #### Step 3d: Write a script that increases the tickerIndex if the next row’s ticker doesn’t match the previous row’s ticker.
 ![This is an image](https://user-images.githubusercontent.com/87958408/168959787-b5d601ec-2634-4015-9256-cd2ff49903a0.png)
 
-#### Step 4: Use a for loop to loop through your arrays (tickers, tickerVolumes, tickerStartingPrices, and tickerEndingPrices) to output the “Ticker,” “Total Daily Volume,” and “Return” columns in your spreadsheet.
-![4](/Resources/4.png)
+#### Step 4: Use a for loop to loop through arrays (tickers, tickerVolumes, tickerStartingPrices, and tickerEndingPrices) to output the “Ticker,” “Total Daily Volume,” and “Return” columns in your spreadsheet.
+![This is an image](https://github.com/Izzyycl/stocks-analysis/blob/main/Stock%20Analysis/4.png?raw=true)
 
-### 5. Code for formatting the cells in the spreadsheet is working.
-![formatting](/Resources/formatting.png)
+### 5. Code for formatting the cells.
+![This is an image](https://github.com/Izzyycl/stocks-analysis/blob/main/Stock%20Analysis/5.png?raw=true)
 
 ### 6. There are comments to explain the purpose of the code.
 #### Consistent Indentation, Avoid Deep Nesting, Control the line length, Comment the step on the code, Grouping.
