@@ -38,19 +38,11 @@
 
 ### 6. There are comments to explain the purpose of the code.
 #### Consistent Indentation, Avoid Deep Nesting, Control the line length, Comment the step on the code, Grouping.
-### 7. The outputs for the 2017 and 2018 stock analyses in the VBA_Challenge.xlsm workbook match the outputs from the AllStockAnalysis in the module.
+### 7. The outputs for the 2017 and 2018 stock analyses in the VBA_Challenge.xlsm workbook match the outputs from the AllStockAnalysis in the module with op-up messages showing the elapsed run time.
 
 #### Dataset Provided
 ![This is an image](https://github.com/Izzyycl/stocks-analysis/blob/main/resources/VBA_Challenge_2017.png?raw=true)
 ![This is an image](https://github.com/Izzyycl/stocks-analysis/blob/main/resources/VBA_Challenge_2018.png?raw=true)
-
-#### VBA Solution
-![2017](/Resources/2017.png)
-![2018](/Resources/2018.png)
-
-### 8. The pop-up messages showing the elapsed run time for the script are saved as VBA_Challenge_2017.png and VBA_Challenge_2018.png.
-![VBA_Challenge_2017](/Resources/VBA_Challenge_2017.png)
-![VBA_Challenge_2018](/Resources/VBA_Challenge_2018.png)
 
 # Summary
 ## There is a detailed statement on the advantages and disadvantages of refactoring code in general.
